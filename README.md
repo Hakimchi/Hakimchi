@@ -5,24 +5,24 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Holo, soy Hakeem 🗿 (se pronuncia akim ntp )</h1></summary>
+    <summary><h1 style="display: inline-block">Hi bro, I'm Hakeem Espejel 🗿 (its pronunced "Akim", don't worry)</h1></summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Aprendiendo a programar, se gentil...</h2></summary>
+    <summary><h2 style="display: inline-block">Learning to program, please be gentle...</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🫏⚪️ Actualmente estudio en el IPN-UPIICSA  **Ingeniería en Informática.**
+- 🫏 I'm currently study **Informatics Engieneering.**
 
-- 🤓 Aprendiendo varios lenguajes y tecnologias **Principalmente C, Java, SQL y React**
+- 🤓 Learning several programming languagesa and technologies  **Principally C, Java, SQL and React**
 
-- ☁️ Mi principal área de conocimiento se basa en **FRONTEND.**
+- ☁️ My principal knowlegde area is based in **FRONTEND.**
 
 
 
@@ -34,14 +34,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hakimchi&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakimchit&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hakimchi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
