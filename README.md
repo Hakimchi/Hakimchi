@@ -16,49 +16,28 @@
   </ul>
 </div>
 
-
-<!--Intro start-->
 - 🫏 I'm currently study **Informatics Engieneering.**
 
-- 🤓 Learning several programming languagesa and technologies  **Principally C, Java, SQL and React**
+- 🤓 Learning several programming languages and technologies  **Principally C, Java, SQL and React**
 
-- ☁️ My principal knowlegde area is based in **FRONTEND.**
-
-
-
+- ☁️ My mostly knowlegde area is based in **FRONTEND.**
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hakimchi&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakimchit&theme=dark&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akimchi" alt="Akimchi" /> </p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hakimchi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akimchi&theme=gotham&show_icons=true" alt="Akimchi" />
 
-<!--- trophy (start) -->
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Akimchi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akimchi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akimchi&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="ravisolanki" /></p>
+
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Akimchi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
-
-
 </p>        
-<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
