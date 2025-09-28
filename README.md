@@ -26,23 +26,23 @@
 
 <!-- Contador de visitas al perfil -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akimchi" alt="Akimchi" />
+  <img src="https://komarev.com/ghpvc/?username=Hakimchi" alt="Hakimchi" />
 </p>
 
 <!-- Estadísticas generales del perfil (commits, repos, estrellas, etc.) -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akimchi&theme=gotham&show_icons=true" alt="Akimchi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hakimchi&theme=gotham&show_icons=true" alt="Hakimchi" />
 </p>
 
 <!-- Racha de actividad (streak stats) -->
 <p align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Akimchi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akimchi" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Hakimchi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Hakimchi" />
 </p>
 
 <!-- Trofeos del perfil -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Akimchi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Hakimchi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
 
