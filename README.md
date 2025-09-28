@@ -16,7 +16,7 @@
   </ul>
 </div>
 
-- 🫏 I'm currently study **Informatics Engieneering.**
+- 🫏 I'm currently study **Informatics Engineering.**
 
 - 🤓 Learning several programming languages and technologies  **Principally C, Java, SQL and React**
 
